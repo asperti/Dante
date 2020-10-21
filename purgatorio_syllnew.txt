@@ -1574,7 +1574,7 @@ Purgatorio • Canto IX
  29 |ter|ri|bil |co|me |fol|gor |di|scen|des|se,               
  30 |e |me |ra|pis|se |su|so in|fi|no al |fo|co.               
 
- 31 |I|vi |pa|rea |che el|la |e |io |ar|des|se;                
+ 31 |I|vi |pa|rea |che |el|la e |io |ar|des|se;                
  32 |e |sì |lo ’n|cen|dio i|ma|gi|na|to |cos|se,               
  33 |che |con|ven|ne |che ’l |son|no |si |rom|pes|se.          
 
@@ -2939,7 +2939,7 @@ Purgatorio • Canto XVI
  11 |per |non |smar|rir|si e |per |non |dar |di |coz|zo        
  12 |in |co|sa |che ’l |mo|le|sti, o |for|se an|ci|da,         
 
- 13 |m’ an|da|va io |per |l’ ae|re a|ma|ro |e |soz|zo,         
+ 13 |m’ an|da|va |io |per |l’ ae|re a|ma|ro e |soz|zo,         
  14 |a|scol|tan|do il |mio |du|ca |che |di|ce|va               
  15 |pur:« |Guar|da |che |da |me |tu |non |sia |moz|zo».       
 
@@ -4923,7 +4923,7 @@ Purgatorio • Canto XXVI
 
  16« |O |tu |che |vai, |non |per |es|ser |più |tar|do,         
  17 |ma |for|se |re|ve|ren|te, a |li al|tri |do|po,            
- 18 |ri|spon|di a |me |che ’n |se|te |e ’n |fo|co ar|do.       
+ 18 |ri|spon|di |a |me |che ’n |se|te e ’n |fo|co ar|do.       
 
  19 |Né |so|lo a |me |la |tua |ri|spo|sta è |uo|po;            
  20 |ché |tut|ti |que|sti |n’ han|no |mag|gior |se|te          
@@ -6483,7 +6483,7 @@ Purgatorio • Canto XXXIII
 114 |e, |qua|si a|mi|ci, |di|par|tir|si |pi|gri.               
 
 115« |O |lu|ce, o |glo|ria |de |la |gen|te u|ma|na,            
-116 |che ac|qua |è |que|sta |che |qui |si |di|spie|ga          
+116 |che |ac|qua è |que|sta |che |qui |si |di|spie|ga          
 117 |da |un |prin|ci|pio e |sé |da |sé |lon|ta|na?».           
 
 118 |Per |co|tal |prie|go |det|to |mi |fu:« |Prie|ga           

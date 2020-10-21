@@ -795,7 +795,7 @@ Inferno • Canto V
 
  13 |Sem|pre |di|nan|zi a |lui |ne |stan|no |mol|te:           
  14 |van|no a |vi|cen|da |cia|scu|na al |giu|di|zio,           
- 15 |di|co|no e o|do|no |e |poi |son |giù |vol|te.             
+ 15 |di|co|no e |o|do|no e |poi |son |giù |vol|te.             
 
  16« |O |tu |che |vie|ni al |do|lo|ro|so o|spi|zio»,           
  17 |dis|se |Mi|nòs |a |me |quan|do |mi |vi|de,                
@@ -984,7 +984,7 @@ Inferno • Canto VI
   8 |et|ter|na, |ma|la|det|ta, |fred|da e |gre|ve;             
   9 |re|go|la e |qua|li|tà |mai |non |l’ è |no|va.             
 
- 10 |Gran|di|ne |gros|sa, ac|qua |tin|ta |e |ne|ve             
+ 10 |Gran|di|ne |gros|sa, |ac|qua |tin|ta e |ne|ve             
  11 |per |l’ ae|re |te|ne|bro|so |si |ri|ver|sa;               
  12 |pu|te |la |ter|ra |che |que|sto |ri|ce|ve.                
 
@@ -1953,7 +1953,7 @@ Inferno • Canto XI
 
  70 |Ma |dim|mi: |quei |de |la |pa|lu|de |pin|gue,             
  71 |che |me|na il |ven|to, e |che |bat|te |la |piog|gia,      
- 72 |e |che |s’ in|con|tran |con |sì |a|spre |lin|gue,         
+ 72 |e |che |s’ in|con|tran |con |sì |as|pre |lin|gue,         
 
  73 |per|ché |non |den|tro |da |la |cit|tà |rog|gia            
  74 |so|no ei |pu|ni|ti, |se |Dio |li ha |in |i|ra?            
@@ -3492,7 +3492,7 @@ Inferno • Canto XIX
 111 |fin |che |vir|tu|te al |suo |ma|ri|to |piac|que.          
 
 112 |Fat|to |v’ a|ve|te |dio |d’ o|ro e |d’ ar|gen|to;         
-113 |e |che al|tro |è |da |voi |a |l’ i|do|la|tre,             
+113 |e |che |al|tro è |da |voi |a |l’ i|do|la|tre,             
 114 |se |non |ch’ el|li u|no, e |voi |ne o|ra|te |cen|to?      
 
 115 |Ahi, |Co|stan|tin, |di |quan|to |mal |fu |ma|tre,         
@@ -4476,7 +4476,7 @@ Inferno • Canto XXIV
 
 127 |E |ï|o al |du|ca:« |Dil|li |che |non |muc|ci,             
 128 |e |do|man|da |che |col|pa |qua |giù ’l |pin|se;           
-129 |ch’ io ’l |vi|di uo|mo |di |san|gue |e |di |cruc|ci».     
+129 |ch’ io ’l |vi|di |uo|mo |di |san|gue e |di |cruc|ci».     
 
 130 |E ’l |pec|ca|tor, |che ’n|te|se, |non |s’ in|fin|se,      
 131 |ma |driz|zò |ver|so |me |l’ a|ni|mo e ’l |vol|to,         
@@ -5890,7 +5890,7 @@ Inferno • Canto XXXI
 Inferno • Canto XXXII
 
 
-  1 |S’ ï|o a|ves|si |le |ri|me a|spre |e |chioc|ce,           
+  1 |S’ ï|o a|ves|si |le |ri|me |as|pre e |chioc|ce,           
   2 |co|me |si |con|ver|reb|be al |tri|sto |bu|co              
   3 |so|vra ’l |qual |pon|tan |tut|te |l’ al|tre |roc|ce,      
 

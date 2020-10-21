@@ -14,7 +14,7 @@ verbose = 1 # 0: no messages
             # alla messages stop the computation.
             # Type return to go on, or comment input() in the code
 
-save_syllabification = False   #warning: could overwrite syllabification files. Chek file names
+save_syllabification = True   #warning: could overwrite syllabification files. Chek file names
 
 ###########
 def preprocess(x):
@@ -193,7 +193,9 @@ def process_verse(v,loc=None,verbose=verbose):
     x = preprocess(v)
     return(process_tokenized_verse(v,x,loc,verbose=verbose))
 
-#examples
+#call process_verse if you watno to process a specific verse
+#examples:
+#print(process_verse("esta selva selvaggia e aspra e forte",verbose=2)[1])
 #print(process_verse("E io a lui: «Poeta, io ti richeggio",verbose=2)[1])
 #print(process_verse("da indi in giuso è tutto ferro eletto", verbose=2)[1])
 #print(process_verse("Monaldi e Filippeschi, uom sanza cura:", verbose=2)[1])
