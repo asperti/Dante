@@ -1,4 +1,3 @@
-import numpy as np
 import re
 import pickle
 
@@ -25,7 +24,7 @@ def preprocess(x):
     x = x.split()
     return x
 
-# for metric purposes we do not count accents on "blend" monosyllabs like articles and prenoms
+# for metric purposes we do not count accents on monosyllabs like articles and prenoms. There are a few exceptions:
 # "su" (on,over) can also be used as an adverb: ché i Pesci guizzan su per l’orizzonta, Inferno • Canto XI, 113
 # "fra" can also be an abbreviation of "frate": «Or dì a fra Dolcin dunque che s’armi,  Inferno • Canto XXVIII, 55
 
@@ -80,7 +79,7 @@ def synalephe_alternatives(pr,pl):
 def extend_single(state,token):
     syllabs, state_prob, tot, vpr,checks = state
     (check4,check6,check10) = checks
-    (pl,n,acc,pr), w, token_prob = token
+    (pl,n,(acc,_),pr), w, token_prob = token
     if check10 and not(n==0) and tot+n-max(vpr,pl)>11:
         #print("cannot accept more tokens",id)
         #set check10 to False
@@ -199,6 +198,7 @@ def process_verse(v,loc=None,verbose=verbose):
 #print(process_verse("E io a lui: «Poeta, io ti richeggio",verbose=2)[1])
 #print(process_verse("da indi in giuso è tutto ferro eletto", verbose=2)[1])
 #print(process_verse("Monaldi e Filippeschi, uom sanza cura:", verbose=2)[1])
+#print(process_verse("Principati e Arcangeli si girano;", verbose=2)[1])
 
 def full_check(files):
     all = 0
