@@ -26,5 +26,10 @@ These are the orginal sources, borrowed from the Gutenberg digital edition
 - inferno_syllnew.txt, purgatorio_syllnew.txt, paradiso_syllnew.txt 
 Fully syllabified versions, obtained as output of the algorithm.
 
+# New
+
+Since the commit on 7/8/2021 the dictionary provides the location of the accent at charater level. So the "metric tuple" is now a structure of the kind 
+(pl,n,(a,ac),pr) where pl,n and pr have the same meaning as before. "a" is a negative offset identifying the accented syllable, and "ac" is a negative offset identifying the accented character inside the syllable. Both offsets are computed form the right. So, e.g. in the word "selva" the position of the accent is (-1,-1).
+The charachter offset "ac" can be None in a few pathological cases like "ch'", "l'" and similar.
 
 
