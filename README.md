@@ -1,3 +1,8 @@
+---
+paper: https://arxiv.org/abs/2010.13515
+repository: https://github.com/asperti/Dante/
+---
+
 # Dante
 Syllabification of the Divine Comedy
 
