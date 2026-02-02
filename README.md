@@ -4,7 +4,7 @@ repository: https://github.com/asperti/Dante/
 ---
 
 # Dante
-Syllabification of the Divine Comedy
+**Syllabification of the Divine Comedy**
 
 This project contains a full syllabification of the Divine Comedy of Dante Alighieri, exploiting techniques from probabilistic and constraint programming. 
 We particularly focus on the synalephe, addressed in terms of the "propensity" of a word to take part in a synalephe with adjacent words. 
@@ -13,6 +13,9 @@ and the aforementioned synalephe propensity, on the left and right sides.
 The algorithm is intrinsically nondeterministic, producing different possible syllabifications for each verse, with different likelihoods; metric constraints
 relative to accents on the 10th, 4th and 6th syllables are used to further reduce the solution space. 
 The most likely syllabification is hence returned as output. 
+
+**Warning:** the algorithm is meant to guess the most likely sillabification supposing the endecasyllabus **is correct**. 
+If you want to use it as a reinforcement for generation you should take probabilities into account.
 
 Files:
 
